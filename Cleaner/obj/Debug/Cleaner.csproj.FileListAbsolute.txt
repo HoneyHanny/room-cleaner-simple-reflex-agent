@@ -1,0 +1,11 @@
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.SuggestedBindingRedirects.cache
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+E:\School\Intelligent Systems 1\CleanerAI\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
